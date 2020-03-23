@@ -113,3 +113,13 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+
+# Webpack directories
+.webpack
